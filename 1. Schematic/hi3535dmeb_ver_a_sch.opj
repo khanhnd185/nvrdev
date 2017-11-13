@@ -59,14 +59,12 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn")
       (Path "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn" "HI3535DMEB")
-      (Path "Outputs")
-      (Select "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn" "HI3535DMEB"
-         "09. System & flash"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 0 505 -8 -31 0 200 0 285"))
+        (Placement "44 2 3 0 505 -8 -31 0 200 0 285"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
@@ -82,13 +80,35 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 1098 0 301")
-        (Scroll "8 0")
-        (Zoom "66")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1098 0 301")
+        (Scroll "-221 0")
+        (Zoom "33")
         (Occurrence "/"))
       (Path
          "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "09. System & flash")))
+      (Page "09. System & flash"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1150 52 353")
+        (Scroll "-75 0")
+        (Zoom "50")
+        (Occurrence "/"))
+      (Path
+         "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "05. Power & VSS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1205 78 379")
+        (Scroll "17 208")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "14. HDMI")))
   (MPSSessionName "Khanh")
   (ISPCBBASICLICENSE "false"))
