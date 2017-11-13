@@ -1,0 +1,597 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  3V3          pins ADDED TO this existing net (pins not previously on any net)
+                                 C2046.2                        
+                                 C2173.1                        
+                                 FB5.1                          
+                                 FB1605.2                       
+                                 R2385.1                        
+                                 U83.16                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  3V3_ZWAVE    pins ADDED TO this new net
+                                 C224.2                         
+                                 C2174.1                        
+                                 FB5.2                          
+                                 R2291.2                        
+                                 U89.9                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V0          pins ADDED TO this existing net (pins not previously on any net)
+                                 C2050.1                        
+                                 C2052.1                        
+                                 U26.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C224.1                         
+                                 C1993.1                        
+                                 C2035.1                        
+                                 C2046.1                        
+                                 C2049.1                        
+                                 C2050.2                        
+                                 C2051.2                        
+                                 C2052.2                        
+                                 C2096.1                        
+                                 C2097.2                        
+                                 C2173.2                        
+                                 C2174.2                        
+                                 C2175.1                        
+                                 C2176.1                        
+                                 ESD811.2                       
+                                 ESD812.2                       
+                                 FB1606.2                       
+                                 J21.1                          
+                                 J21.2                          
+                                 J0701.1                        
+                                 J0702.1                        
+                                 J1851.4                        
+                                 SIM1.9                         
+                                 SIM1.10                        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 SIM1.11                        
+                                 SIM1.12                        
+                                 SIM1.13                        
+                                 SIM1.14                        
+                                 U26.2                          
+                                 U28.4                          
+                                 U28.5                          
+                                 U83.15                         
+                                 U89.1                          
+                                 U89.8                          
+                                 U89.10                         
+                                 U89.11                         
+                                 U89.24                         
+                                 U89.25                         
+                                 U89.28                         
+                                 U89.30                         
+                                 U89.34                         
+                                 U89.35                         
+                                 U89.48                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND_FIELD SIGNAL pins ADDED TO this new net
+                                 C2177.2                        
+                                 C2178.2                        
+                                 C2179.2                        
+                                 C2180.2                        
+                                 C2181.2                        
+                                 C2182.2                        
+                                 C2183.2                        
+                                 C2184.2                        
+                                 C2185.2                        
+                                 C2186.2                        
+                                 FB10.2                         
+                                 FB1606.1                       
+                                 MPCIE_A_1.4                    
+                                 MPCIE_A_1.9                    
+                                 MPCIE_A_1.15                   
+                                 MPCIE_A_1.18                   
+                                 MPCIE_A_1.21                   
+                                 MPCIE_A_1.26                   
+                                 MPCIE_A_1.27                   
+                                 MPCIE_A_1.29                   
+                                 MPCIE_A_1.34                   
+                                 MPCIE_A_1.35                   
+                                 MPCIE_A_1.37                   
+                                 MPCIE_A_1.40                   
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 MPCIE_A_1.43                   
+                                 MPCIE_A_1.50                   
+                                 R2387.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO1_0      pins ADDED TO this existing net (pins not previously on any net)
+                                 R2321.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO1_5      pins ADDED TO this existing net (pins not previously on any net)
+                                 MPCIE_A_1.1                    
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO1_6      pins ADDED TO this existing net (pins not previously on any net)
+                                 U26.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GPIO1_7      pins ADDED TO this existing net (pins not previously on any net)
+                                 R2388.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HUB_DM1      pins ADDED TO this new net
+                                 T2.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HUB_DM2      pins ADDED TO this new net
+                                 U28.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HUB_DP1      pins ADDED TO this new net
+                                 T2.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  HUB_DP2      pins ADDED TO this new net
+                                 U28.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3996117     pins ADDED TO this new net
+                                 C2094.2                        
+                                 U83.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3996121     pins ADDED TO this new net
+                                 C2094.1                        
+                                 U83.3                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3996133     pins ADDED TO this new net
+                                 C2095.2                        
+                                 U83.5                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3996137     pins ADDED TO this new net
+                                 C2095.1                        
+                                 U83.4                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3996149     pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C2096.2                        
+                                 U83.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3996157     pins ADDED TO this new net
+                                 C2097.1                        
+                                 U83.6                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3998605     pins ADDED TO this new net
+                                 LED1.A                         
+                                 R2389.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3999271     pins ADDED TO this new net
+                                 C2176.2                        
+                                 L14.2                          
+                                 U28.6                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3999303     pins ADDED TO this new net
+                                 C2175.2                        
+                                 J21.3                          
+                                 L14.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N3999599     pins ADDED TO this new net
+                                 C2049.2                        
+                                 U26.4                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N4000723     pins ADDED TO this new net
+                                 FB10.1                         
+                                 SIM1.5                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N4000727     pins ADDED TO this new net
+                                 LED1.C                         
+                                 MPCIE_A_1.42                   
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  PC_3V3       pins ADDED TO this new net
+                                 C2177.1                        
+                                 C2178.1                        
+                                 C2180.1                        
+                                 C2181.1                        
+                                 C2182.1                        
+                                 C2185.1                        
+                                 FB1605.1                       
+                                 MPCIE_A_1.2                    
+                                 MPCIE_A_1.24                   
+                                 MPCIE_A_1.39                   
+                                 MPCIE_A_1.41                   
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 MPCIE_A_1.52                   
+                                 R2386.2                        
+                                 R2389.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RS232_RX_DBG pins ADDED TO this new net
+                                 J0701.3                        
+                                 U83.13                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RS232_RX_IOM pins ADDED TO this new net
+                                 J0702.3                        
+                                 U83.8                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RS232_TX_DBG pins ADDED TO this new net
+                                 J0701.2                        
+                                 U83.14                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RS232_TX_IOM pins ADDED TO this new net
+                                 J0702.2                        
+                                 U83.7                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_RXD    pins ADDED TO this existing net (pins not previously on any net)
+                                 U83.12                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART0_TXD    pins ADDED TO this existing net (pins not previously on any net)
+                                 U83.11                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART2_RXD    pins ADDED TO this existing net (pins not previously on any net)
+                                 U83.9                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART2_TXD    pins ADDED TO this existing net (pins not previously on any net)
+                                 U83.10                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART3_RXD    pins ADDED TO this existing net (pins not previously on any net)
+                                 R2376.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UART3_TXD    pins ADDED TO this existing net (pins not previously on any net)
+                                 R2375.2                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UIM_CLK      pins ADDED TO this new net
+                                 C2186.1                        
+                                 MPCIE_A_1.12                   
+                                 SIM1.3                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UIM_DATA     pins ADDED TO this new net
+                                 C2183.1                        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 MPCIE_A_1.10                   
+                                 SIM1.7                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UIM_PWR      pins ADDED TO this new net
+                                 C2184.1                        
+                                 MPCIE_A_1.8                    
+                                 SIM1.1                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  UIM_RESET    pins ADDED TO this new net
+                                 C2179.1                        
+                                 MPCIE_A_1.14                   
+                                 SIM1.2                         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_WIFI     pins ADDED TO this new net
+                                 C1993.2                        
+                                 C2051.1                        
+                                 R2385.2                        
+                                 U26.5                          
+                                 U28.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  WAN_NDISABLE pins ADDED TO this new net
+                                 MPCIE_A_1.20                   
+                                 R2386.1                        
+                                 R2387.1                        
+                                 R2388.1                        
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  WLAN_DN      pins ADDED TO this new net
+                                 ESD812.1                       
+                                 MPCIE_A_1.36                   
+                                 T2.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  WLAN_DP      pins ADDED TO this new net
+                                 ESD811.1                       
+                                 MPCIE_A_1.38                   
+                                 T2.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ZWAVE_RESETN pins ADDED TO this new net
+                                 C2035.2                        
+                                 J1851.3                        
+                                 R2291.1                        
+                                 R2321.2                        
+                                 U89.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ZWAVE_RX     pins ADDED TO this new net
+                                 J1851.1                        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R2375.1                        
+                                 U89.5                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ZWAVE_TX     pins ADDED TO this new net
+                                 J1851.2                        
+                                 R2376.1                        
+                                 U89.4                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ HUB_DM2           DIFFERENTIAL_P USB_D1
+ HUB_DP2           DIFFERENTIAL_P USB_D1
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 6140045100G
+ C0603_C0402_MATCHING CIRCUIT, W
+ CAP NP_4_C0402_0.1UF
+ CAP NP_C0402_0.1UF
+ CAP NP_C0402_1UF
+ CAP NP_C0402_DISCRETE_0.1UF
+ CAP NP_C0402_DISCRETE_0.1UF_HTT
+ CAP NP_C0402_DISCRETE_0.1UF_H_1
+ CAP NP_C0603_4.7UF
+ CAP NP_C0805_22UF
+ CAPC-SM0402_10_SMC0402_DISCRETE
+ CAPC-SM0402_4_SMC0402_DISCRETE_
+ CAPC-SM0402_4_SMC0402_DISCRET_1
+ CAPC-SM0805_0_SMC0603_DISCRETE_
+ CON3_ANTENNA_WIFI_CON3
+ CP
+ DS8008_4_SOT23-5_PT5108E23E-33/
+ ESD,ES0402V014BT_2_ESD0402_ES04
+ FB0603_0_SMR0603_DISCRETE_31/3A
+ HEADER 3_CONN3_BOX_DEBUG
+ HEADER 3_PHEONIX_CONN_3_6913223
+ HEADER 4_HEADER-4_HEADER 4 2.54
+ INDUCTOR_0_R0402_MATCHING CIRCU
+ INDUCTOR_L0603_BLM18PG181SN1
+ LED_LTST-C150GKT_0_SM0603LED_AC
+ MAX3232_1_SOIC16_MAX3232
+ RES-SM0402_2_R0402_DISCRETE_0R
+ RES-SM0402_2_R0402_DISCRETE_0R_
+ RES-SM0402_2_R0402_DISCRETE_10K
+ RES-SM0402_2_SMR0402_DISCRETE_0
+ RES-SM0402_2_SMR0402_DISCRETE_1
+ RES-SM0402_2_SMR0402_DISCRETE_2
+ RESISTOR_R0402_0R/NC
+ SIM_RIDER_2_MICRO_SIM_CR-201-6P
+ TRNSFMR 67115100_0_CHOKE_COIL_D
+ WM-294_0_WIFI_BT_R_RL-UM12BS-81
+ ZM5304_0_ZM5304_ZM5304
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C224                CAP NP_C0402_DISCRETE_0.1UF 
+ C1993               CAP NP_C0402_DISCRETE_0.1UF_HTT 
+ C2035               CAP NP_C0402_DISCRETE_0.1UF_H_1 
+ C2046               CAP NP_C0402_DISCRETE_0.1UF_H_1 
+ C2049               CAP NP_4_C0402_0.1UF  
+ C2050               CAP NP_C0402_1UF      
+ C2051               CAP NP_C0603_4.7UF    
+ C2052               CAP NP_C0402_0.1UF    
+ C2094               CP                    
+ C2095               CP                    
+ C2096               CP                    
+ C2097               CP                    
+ C2173               CP                    
+ C2174               CAP NP_C0805_22UF     
+ C2175               C0603_C0402_MATCHING CIRCUIT, W 
+ C2176               C0603_C0402_MATCHING CIRCUIT, W 
+ C2177               CAPC-SM0402_10_SMC0402_DISCRETE 
+ C2178               CAPC-SM0805_0_SMC0603_DISCRETE_ 
+ C2179               CAPC-SM0402_4_SMC0402_DISCRETE_ 
+ C2180               CAPC-SM0402_10_SMC0402_DISCRETE 
+ C2181               CAPC-SM0402_10_SMC0402_DISCRETE 
+ C2182               CAPC-SM0805_0_SMC0603_DISCRETE_ 
+ C2183               CAPC-SM0402_4_SMC0402_DISCRETE_ 
+ C2184               CAPC-SM0402_4_SMC0402_DISCRET_1 
+ C2185               CAPC-SM0402_10_SMC0402_DISCRETE 
+ C2186               CAPC-SM0402_4_SMC0402_DISCRETE_ 
+ ESD811              ESD,ES0402V014BT_2_ESD0402_ES04 
+ ESD812              ESD,ES0402V014BT_2_ESD0402_ES04 
+ FB5                 INDUCTOR_L0603_BLM18PG181SN1 
+ FB10                FB0603_0_SMR0603_DISCRETE_31/3A 
+ FB1605              FB0603_0_SMR0603_DISCRETE_31/3A 
+ FB1606              FB0603_0_SMR0603_DISCRETE_31/3A 
+ J21                 CON3_ANTENNA_WIFI_CON3 
+ J0701               HEADER 3_CONN3_BOX_DEBUG 
+ J0702               HEADER 3_PHEONIX_CONN_3_6913223 
+ J1851               HEADER 4_HEADER-4_HEADER 4 2.54 
+ L14                 INDUCTOR_0_R0402_MATCHING CIRCU 
+ LED1                LED_LTST-C150GKT_0_SM0603LED_AC 
+ MPCIE_A_1           6140045100G           
+ R2291               RES-SM0402_2_R0402_DISCRETE_10K 
+ R2321               RES-SM0402_2_R0402_DISCRETE_0R_ 
+ R2375               RES-SM0402_2_R0402_DISCRETE_0R 
+ R2376               RES-SM0402_2_R0402_DISCRETE_0R 
+ R2385               RESISTOR_R0402_0R/NC  
+ R2386               RES-SM0402_2_SMR0402_DISCRETE_0 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R2387               RES-SM0402_2_SMR0402_DISCRETE_1 
+ R2388               RES-SM0402_2_SMR0402_DISCRETE_1 
+ R2389               RES-SM0402_2_SMR0402_DISCRETE_2 
+ SIM1                SIM_RIDER_2_MICRO_SIM_CR-201-6P 
+ T2                  TRNSFMR 67115100_0_CHOKE_COIL_D 
+ U26                 DS8008_4_SOT23-5_PT5108E23E-33/ 
+ U28                 WM-294_0_WIFI_BT_R_RL-UM12BS-81 
+ U83                 MAX3232_1_SOIC16_MAX3232 
+ U89                 ZM5304_0_ZM5304_ZM5304 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT PROPERTIES added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   ref  des   |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C2050                          ROOM           USB+5V
+ C2179                          ROOM           ROOM10
+ C2183                          ROOM           ROOM10
+ C2184                          ROOM           ROOM10
+ C2186                          ROOM           ROOM10
+ FB10                           ROOM           ROOM9
+ FB1605                         ROOM           ROOM9
+ FB1606                         ROOM           ROOM9
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C224.2                         PRIM_FILE      .\pstchip.dat
+ C1993.2                        PRIM_FILE      .\pstchip.dat
+ C2035.2                        PRIM_FILE      .\pstchip.dat
+ C2046.2                        PRIM_FILE      .\pstchip.dat
+ C2049.2                        PRIM_FILE      .\pstchip.dat
+ C2050.2                        PRIM_FILE      .\pstchip.dat
+ C2050.2                        ROOM           USB+5V
+ C2051.2                        PRIM_FILE      .\pstchip.dat
+ C2052.2                        PRIM_FILE      .\pstchip.dat
+ C2094.2                        PRIM_FILE      .\pstchip.dat
+ C2095.2                        PRIM_FILE      .\pstchip.dat
+ C2096.2                        PRIM_FILE      .\pstchip.dat
+ C2097.2                        PRIM_FILE      .\pstchip.dat
+ C2173.2                        PRIM_FILE      .\pstchip.dat
+ C2174.2                        PRIM_FILE      .\pstchip.dat
+ C2175.2                        PRIM_FILE      .\pstchip.dat
+ C2176.2                        PRIM_FILE      .\pstchip.dat
+ C2177.2                        PRIM_FILE      .\pstchip.dat
+ C2178.2                        PRIM_FILE      .\pstchip.dat
+ C2179.2                        PRIM_FILE      .\pstchip.dat
+ C2179.2                        ROOM           ROOM10
+ C2180.2                        PRIM_FILE      .\pstchip.dat
+ C2181.2                        PRIM_FILE      .\pstchip.dat
+ C2182.2                        PRIM_FILE      .\pstchip.dat
+ C2183.2                        PRIM_FILE      .\pstchip.dat
+ C2183.2                        ROOM           ROOM10
+ C2184.2                        PRIM_FILE      .\pstchip.dat
+ C2184.2                        ROOM           ROOM10
+ C2185.2                        PRIM_FILE      .\pstchip.dat
+ C2186.2                        PRIM_FILE      .\pstchip.dat
+ C2186.2                        ROOM           ROOM10
+ ESD811.1                       PRIM_FILE      .\pstchip.dat
+ ESD812.1                       PRIM_FILE      .\pstchip.dat
+ FB5.2                          PRIM_FILE      .\pstchip.dat
+ FB10.2                         PRIM_FILE      .\pstchip.dat
+ FB10.2                         ROOM           ROOM9
+ FB1605.2                       PRIM_FILE      .\pstchip.dat
+ FB1605.2                       ROOM           ROOM9
+ FB1606.2                       PRIM_FILE      .\pstchip.dat
+ FB1606.2                       ROOM           ROOM9
+ J21.3                          PRIM_FILE      .\pstchip.dat
+ J0701.3                        PRIM_FILE      .\pstchip.dat
+ J0702.3                        PRIM_FILE      .\pstchip.dat
+ J1851.4                        PRIM_FILE      .\pstchip.dat
+ L14.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  NVR.brd                                                                     |
+|                                                    Mon Nov 13 09:34:10 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ LED1.C                         PRIM_FILE      .\pstchip.dat
+ MPCIE_A_1.20                   PRIM_FILE      .\pstchip.dat
+ R2291.2                        PRIM_FILE      .\pstchip.dat
+ R2321.2                        PRIM_FILE      .\pstchip.dat
+ R2375.2                        PRIM_FILE      .\pstchip.dat
+ R2376.2                        PRIM_FILE      .\pstchip.dat
+ R2385.2                        PRIM_FILE      .\pstchip.dat
+ R2386.2                        PRIM_FILE      .\pstchip.dat
+ R2387.2                        PRIM_FILE      .\pstchip.dat
+ R2388.2                        PRIM_FILE      .\pstchip.dat
+ R2389.2                        PRIM_FILE      .\pstchip.dat
+ SIM1.14                        PRIM_FILE      .\pstchip.dat
+ T2.3                           PRIM_FILE      .\pstchip.dat
+ U26.3                          PRIM_FILE      .\pstchip.dat
+ U28.1                          PRIM_FILE      .\pstchip.dat
+ U83.16                         PRIM_FILE      .\pstchip.dat
+ U89.9                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  347                                            |
+|------------------------------------------------------------------------------|
