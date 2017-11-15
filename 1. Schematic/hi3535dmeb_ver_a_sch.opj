@@ -81,8 +81,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 0 1098 0 301")
-        (Scroll "-221 0")
-        (Zoom "33")
+        (Scroll "0 164")
+        (Zoom "66")
         (Occurrence "/"))
       (Path
          "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
@@ -102,13 +102,24 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1205 78 379")
-        (Scroll "17 208")
+        (Placement "44 0 1 -1 -1 -8 -31 0 1153 0 234")
+        (Scroll "-353 0")
+        (Zoom "25")
+        (Occurrence "/"))
+      (Path
+         "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "16. Connector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1205 52 286")
+        (Scroll "0 440")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "14. HDMI")))
+      (Page "06. HI3535 DDR3")))
   (MPSSessionName "Khanh")
   (ISPCBBASICLICENSE "false"))

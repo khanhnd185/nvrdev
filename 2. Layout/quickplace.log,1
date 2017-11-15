@@ -4,8 +4,82 @@
 (                                                                     )
 (    Drawing          : NVR.brd                                       )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Mon Nov 13 09:34:24 2017                      )
+(    Date/Time        : Tue Nov 14 07:05:30 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
+
+State: Placing on layer TOP
+
+ERROR:   Cannot place symbol:  U7 / HI3535 / PBGA563-32-2828
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Could not find symbol:  U9 / CONNECTOR_100PIN / FINISHED_HOLE-100
+ERROR:   Could not find symbol:  U6 / CONNECTOR_100PIN / FINISHED_HOLE-100
+ERROR:   Could not find symbol:  MPCIE_A_1 / 6140045100G / PCIEXP_MINI52PN_HALF
+ERROR:   Cannot place symbol:  U89 / ZM5304_0_ZM5304_ZM5304 / ZM5304
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+         Placed symbol:  U92 / GLI8024-48_3_SSOP28_GL850G / SSOP28 at (-1628.39 3401.76)
+         Placed symbol:  J1852 / HDMI_A_HDMI_A_10029449-111RLF_1 / HDMI_A at (-1227.65 3266.76)
+ERROR:   Could not find symbol:  J8 / 17HE_R13150_73HC2 / DB15-3RF-A
+ERROR:   Could not find symbol:  J2 / A4E0911_A_30_T_B / RUSB9-180-0726A
+         Placed symbol:  U91 / DS8008_2_SLP2510P8_NC/RCLAMP052 / SLP2510P8 at (-624.37 3261.17)
+         Placed symbol:  U90 / DS8008_1_SLP2510P8_NC/RCLAMP052 / SLP2510P8 at (-498.26 3261.17)
+ERROR:   Could not find symbol:  J6 / 67491_1032 / SATA7-M
+         Placed symbol:  U81 / LM4990_0_SOIC-8_MCP7940M-I/SN / SOIC-8 at (-306.82 3322.68)
+ERROR:   Could not find symbol:  J4 / 2350004_0W3_R / USB4-1507
+ERROR:   Could not find symbol:  X1 / C001R12520 / XTAL2-100
+ERROR:   Could not find symbol:  Q1 / DS18S20C01 / TO-TR
+ERROR:   Could not find symbol:  J11 / 201_040_003_05_3 / SIP-3P
+         Placed symbol:  Q8 / MOSFET N_SOT23_NC/WNM2021/2SK30 / SOT23 at (-103.43 3284.26)
+         Placed symbol:  Q7 / MOSFET N_SOT23_WNM2021/2SK3018_ / SOT23 at (45.57 3284.26)
+         Placed symbol:  Q6 / MOSFET N_SOT23_WNM2021/2SK3018_ / SOT23 at (194.57 3284.26)
+         Placed symbol:  ED18 / TVS_E0402N_NC/ESD9B5VL / E0402N at (322.57 3249.26)
+         Placed symbol:  ED17 / TVS_E0402N_NC/ESD9B5VL / E0402N at (430.57 3249.26)
+         Placed symbol:  C2187 / CAP NP_2_C0402_0.1UF / C0402 at (517.51 3234.30)
+         Placed symbol:  ED16 / TVS_E0402N_NC/ESD9B5VL / E0402N at (604.45 3249.26)
+         Placed symbol:  R2377 / RESISTOR_R0402_10K / R0402 at (691.39 3234.30)
+         Placed symbol:  R2290 / RESISTOR_4_R0402_10K / R0402 at (757.27 3234.30)
+         Placed symbol:  R2379 / RESISTOR_R0402_10K / R0402 at (823.15 3234.30)
+         Placed symbol:  R2378 / RESISTOR_R0402_100K / R0402 at (889.03 3234.30)
+         Placed symbol:  C2054 / CAP NP_C0402_8PF / C0402 at (954.91 3234.30)
+         Placed symbol:  R2917 / RESISTOR_R0402_1.62K%1 / R0402 at (1020.79 3234.30)
+         Placed symbol:  R2918 / RESISTOR_R0402_1.62K%1 / R0402 at (1086.67 3234.30)
+         Placed symbol:  R2919 / RESISTOR_R0402_1.62K%1 / R0402 at (1152.55 3234.30)
+         Placed symbol:  D49 / DIODE_0_SOD523_1N4148 / SOD523 at (1231.22 3238.04)
+         Placed symbol:  ED15 / TVS_E0402N_NC/ESD9B5VL / E0402N at (1330.95 3249.26)
+         Placed symbol:  D4 / DIODE_SOD123_NC/1N5819 / SOD123 at (1477.34 3248.28)
+         Placed symbol:  R2925 / RESISTOR_R0402_680R / R0402 at (1602.67 3234.30)
+         Placed symbol:  D2 / DIODE_SOD123_1N5819 / SOD123 at (1728.00 3248.28)
+         Placed symbol:  C2053 / CAP NP_C0402_8PF / C0402 at (1853.33 3234.30)
+         Placed symbol:  C2898 / CAPACITOR_C0402_0.1UF / C0402 at (1919.21 3234.30)
+         Placed symbol:  C2041 / CAPACITOR_C0402_0.1UF / C0402 at (1985.09 3234.30)
+         Placed symbol:  X3 / CRYSTAL DIP DT38 R_2.A_5032-12M / 5032-12M at (2142.11 3271.51)
+         Placed symbol:  Y6 / CRYSTAL DIP DT38 R_2.A_CM315D_3 / CM315D at (2350.90 3271.50)
+         Placed symbol:  C1980 / CAP NP_C0402_1UF / C0402 at (2468.55 3234.30)
+         Placed symbol:  C2044 / CAP NP_C0402_1UF / C0402 at (2534.43 3234.30)
+         Placed symbol:  FB3 / INDUCTOR_L0603_BLM18PG181SN1 / L0603 at (2621.37 3244.26)
+         Placed symbol:  C2040 / CAPACITOR_C0402_0.1UF / C0402 at (2708.31 3234.30)
+         Placed symbol:  C2039 / CAPACITOR_C0402_0.1UF / C0402 at (2774.19 3234.30)
+         Placed symbol:  C2896 / C_SC0402_100NF / SC0402 at (2840.13 3237.26)
+         Placed symbol:  C2899 / CAPACITOR_0_C0603_4.7UF / C0603 at (2894.85 3265.60)
+         Placed symbol:  C2038 / CAPACITOR_0_C0603_4.7UF / C0603 at (2938.28 3265.60)
+         Placed symbol:  C2037 / CAPACITOR_C0402_8PF / C0402 at (2992.93 3234.30)
+         Placed symbol:  C2897 / CAPACITOR_0_C0402_1UF / C0402 at (3058.81 3234.30)
+         Placed symbol:  R2922 / RESISTOR_R0402_NC/10K / R0402 at (3124.69 3234.30)
+         Placed symbol:  C2036 / CAPACITOR_C0402_8PF / C0402 at (3190.57 3234.30)
+         Placed symbol:  R2923 / RESISTOR_R0402_NC/10K / R0402 at (3256.45 3234.30)
+         Placed symbol:  R2380 / RESISTOR_1_R0402_10K / R0402 at (3322.33 3234.30)
+         Placed symbol:  R2920 / RESISTOR_R0402_1.62K%1 / R0402 at (3388.21 3234.30)
+         Placed symbol:  BT1 / CON2_BAT_CR1220_BAT_3V / BAT_CR1220 at (3505.15 3624.50)
+         Placed symbol:  R2924 / RC0402JR_0747K / SR0402 at (3622.15 3237.26)
+         Placed symbol:  R2921 / RC0603JR_070RL / SR0603 at (3705.15 3243.26)
+ERROR:   Could not find symbol:  J9 / TSW_101_23_F_S / SIP-1P
+ERROR:   Could not find symbol:  J13 / TSW_101_23_F_S / SIP-1P
+ERROR:   Could not find symbol:  J10 / TSW_101_23_F_S / SIP-1P
+ERROR:   Could not find symbol:  J1 / TSW_101_23_F_S / SIP-1P
+
+
+Placed 48 of 64 applicable (64 total) symbols.
+
+-----------------------------------------------------------------------
 

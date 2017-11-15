@@ -3,324 +3,7 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  3V3          pins ADDED TO this existing net (pins not previously on any net)
-                                 C2897.1                        
-                                 C2898.2                        
-                                 C2899.1                        
-                                 D49.1                          
-                                 FB3.1                          
-                                 Q6.1                           
-                                 Q7.1                           
-                                 R2290.1                        
-                                 R2377.2                        
-                                 R2378.2                        
-                                 R2917.1                        
-                                 R2919.1                        
-                                 U92.16                         
-                                 U92.24                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  5V0          pins ADDED TO this existing net (pins not previously on any net)
-                                 C2187.2                        
-                                 D2.1                           
-                                 J1852.18                       
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  AVDD33_BAT   pins ADDED TO this existing net (pins not previously on any net)
-                                 BT1.1                          
-                                 C1980.2                        
-                                 D49.2                          
-                                 U81.8                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  DDC_SCL      pins ADDED TO this new net
-                                 ED15.1                         
-                                 J1852.15                       
-                                 Q6.3                           
-                                 R2918.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  DDC_SDA      pins ADDED TO this new net
-                                 ED16.1                         
-                                 J1852.16                       
-                                 Q7.3                           
-                                 R2920.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  GND          pins ADDED TO this existing net (pins not previously on any net)
-                                 BT1.2                          
-                                 C1980.1                        
-                                 C2036.2                        
-                                 C2037.2                        
-                                 C2038.2                        
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   2  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 C2039.1                        
-                                 C2040.1                        
-                                 C2041.1                        
-                                 C2044.1                        
-                                 C2053.2                        
-                                 C2054.2                        
-                                 C2187.1                        
-                                 C2896.2                        
-                                 C2897.2                        
-                                 C2898.1                        
-                                 C2899.2                        
-                                 ED15.2                         
-                                 ED16.2                         
-                                 ED17.2                         
-                                 ED18.2                         
-                                 J1852.2                        
-                                 J1852.5                        
-                                 J1852.8                        
-                                 J1852.11                       
-                                 J1852.17                       
-                                 J1852.20                       
-                                 J1852.21                       
-                                 J1852.22                       
-                                 J1852.23                       
-                                 R2379.1                        
-                                 R2924.2                        
-                                 R2925.1                        
-                                 U81.4                          
-                                 U90.3                          
-                                 U90.8                          
-                                 U91.3                          
-                                 U91.8                          
-                                 U92.15                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMICEC      pins ADDED TO this new net
-                                 ED18.1                         
-                                 Q8.3                           
-                                 R2921.1                        
-                                 R2923.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_CEC     pins MOVED FROM this net (to net name listed on right)
-                                 U7.E15                         
-                                                                  HDMI_CEC_4210
-                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-               pins ADDED TO this existing net (pins not previously on any net)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   3  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 Q8.2                           
-                                 R2922.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_HOTPLUG pins ADDED TO this existing net (pins not previously on any net)
-                                 C2896.1                        
-                                 J1852.19                       
-                                 R2924.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_HPD     pins ADDED TO this new net
-                                 ED17.1                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_SCL     pins ADDED TO this existing net (pins not previously on any net)
-                                 Q6.2                           
-                                 R2917.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_SDA     pins ADDED TO this existing net (pins not previously on any net)
-                                 Q7.2                           
-                                 R2919.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_TX0N    pins ADDED TO this existing net (pins not previously on any net)
-                                 J1852.9                        
-                                 U91.2                          
-                                 U91.9                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_TX0P    pins ADDED TO this existing net (pins not previously on any net)
-                                 J1852.7                        
-                                 U91.1                          
-                                 U91.10                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_TX1N    pins ADDED TO this existing net (pins not previously on any net)
-                                 J1852.6                        
-                                 U90.5                          
-                                 U90.6                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_TX1P    pins ADDED TO this existing net (pins not previously on any net)
-                                 J1852.4                        
-                                 U90.4                          
-                                 U90.7                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_TX2N    pins ADDED TO this existing net (pins not previously on any net)
-                                 J1852.3                        
-                                 U90.2                          
-                                 U90.9                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_TX2P    pins ADDED TO this existing net (pins not previously on any net)
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   4  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-                                 J1852.1                        
-                                 U90.1                          
-                                 U90.10                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_TXCN    pins ADDED TO this existing net (pins not previously on any net)
-                                 J1852.12                       
-                                 U91.5                          
-                                 U91.6                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HDMI_TXCP    pins ADDED TO this existing net (pins not previously on any net)
-                                 J1852.10                       
-                                 U91.4                          
-                                 U91.7                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HOST_RST     pins ADDED TO this new net
-                                 C2044.2                        
-                                 R2380.2                        
-                                 U92.13                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HUB-AVDD     pins ADDED TO this new net
-                                 C2038.1                        
-                                 C2039.2                        
-                                 C2040.2                        
-                                 C2041.2                        
-                                 FB3.2                          
-                                 R2380.1                        
-                                 U92.1                          
-                                 U92.5                          
-                                 U92.10                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HUB-X1       pins ADDED TO this new net
-                                 C2036.1                        
-                                 U92.6                          
-                                 X3.1                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HUB-X2       pins ADDED TO this new net
-                                 C2037.1                        
-                                 U92.7                          
-                                 X3.2                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HUB_DM1      pins ADDED TO this existing net (pins not previously on any net)
-                                 U92.27                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HUB_DM2      pins ADDED TO this existing net (pins not previously on any net)
-                                 U92.2                          
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   5  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  HUB_DM3      pins ADDED TO this new net
-                                 U92.8                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HUB_DP1      pins ADDED TO this existing net (pins not previously on any net)
-                                 U92.28                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HUB_DP2      pins ADDED TO this existing net (pins not previously on any net)
-                                 U92.3                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  HUB_DP3      pins ADDED TO this new net
-                                 U92.9                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  I2C_SCL      pins ADDED TO this existing net (pins not previously on any net)
-                                 U81.6                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  I2C_SDA      pins ADDED TO this existing net (pins not previously on any net)
-                                 U81.5                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N4021193     pins ADDED TO this new net
-                                 C2053.1                        
-                                 U81.1                          
-                                 Y6.2                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N4021335     pins ADDED TO this new net
-                                 C2054.1                        
-                                 U81.2                          
-                                 Y6.1                           
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N4024172     pins ADDED TO this new net
-                                 J1852.13                       
-                                 R2921.2                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N4024314     pins ADDED TO this new net
-                                 D2.2                           
-                                 R2918.1                        
-                                 R2920.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N4025010     pins ADDED TO this new net
-                                 D4.2                           
-                                 R2923.1                        
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N4027577     pins ADDED TO this new net
-                                 R2925.2                        
-                                 U92.4                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   6  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| NET CHANGES                                                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  N4027745     pins ADDED TO this new net
-                                 R2379.2                        
-                                 U92.14                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  PGANG        pins ADDED TO this new net
-                                 R2378.1                        
-                                 U92.18                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  PSELF        pins ADDED TO this new net
-                                 R2377.1                        
-                                 U92.17                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  RTC_CLKOUT   pins ADDED TO this new net
-                                 R2290.2                        
-                                 U81.7                          
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB2_DM0     pins ADDED TO this existing net (pins not previously on any net)
-                                 U92.25                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  USB2_DP0     pins ADDED TO this existing net (pins not previously on any net)
-                                 U92.26                         
- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  VCC_IO       pins ADDED TO this new net
-                                 D4.1                           
-                                 Q8.1                           
-                                 R2922.1                        
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page   7  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
+|                                                    Wed Nov 15 09:07:28 2017  |
 |------------------------------------------------------------------------------|
 | NET PROPERTIES added to board drawing                                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -328,283 +11,49 @@
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
  HUB_DM1           DIFFERENTIAL_P USB_D1
  HUB_DP1           DIFFERENTIAL_P USB_D1
- USB2_DM0          DIFFERENTIAL_P USB_HOST
- USB2_DP0          DIFFERENTIAL_P USB_HOST
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   8  |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
+|                                                    Wed Nov 15 09:07:28 2017  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to board drawing                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- CAP NP_2_C0402_0.1UF
- CAP NP_C0402_8PF
- CAPACITOR_0_C0402_1UF
- CAPACITOR_0_C0603_4.7UF
- CAPACITOR_C0402_0.1UF
- CAPACITOR_C0402_8PF
- CON2_BAT_CR1220_BAT_3V
- CRYSTAL DIP DT38 R_2.A_5032-12M
- CRYSTAL DIP DT38 R_2.A_CM315D_3
- DIODE_0_SOD523_1N4148
- DIODE_SOD123_1N5819
- DIODE_SOD123_NC/1N5819
- DS8008_1_SLP2510P8_NC/RCLAMP052
- DS8008_2_SLP2510P8_NC/RCLAMP052
- GLI8024-48_3_SSOP28_GL850G
- HDMI_A_HDMI_A_10029449-111RLF_1
- LM4990_0_SOIC-8_MCP7940M-I/SN
- MOSFET N_SOT23_NC/WNM2021/2SK30
- MOSFET N_SOT23_WNM2021/2SK3018_
- RESISTOR_1_R0402_10K
- RESISTOR_4_R0402_10K
- RESISTOR_R0402_1.62K%1
- RESISTOR_R0402_100K
- RESISTOR_R0402_10K
- RESISTOR_R0402_680R
- RESISTOR_R0402_NC/10K
- TVS_E0402N_NC/ESD9B5VL
+ HI3535
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page   9  |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
+|                                                    Wed Nov 15 09:07:28 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENTS DELETED from board drawing                                        |
+| COMPONENTS CHANGED from one device type to another in board drawing          |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C2                  06031C102KAT2A        3363.50  880.00
- C146                C_SC0402_10NF         2200.00  435.00
- C147                C_SC0402_10NF         2200.00  325.00
- C151                C_SC0402_10NF         2200.00  475.00
- C152                C_SC0402_10NF         2200.00  285.00
- C154                C_SC0402_10NF         2705.00  285.00
- C155                C_SC0402_10NF         2705.00  475.00
- C156                C_SC0402_10NF         2705.00  325.00
- C157                C_SC0402_10NF         2705.00  435.00
- C163                0603YC104KAT2A        3390.00  747.50
- C166                0603YC104KAT2A         460.00  745.00
- C167                0603YC104KAT2A         325.00  685.00
- C172                TPSD107M010R0100       525.00  545.00
- C205                CEJMK212BJ106KD_T     3470.00  743.00
- C211                06035C103KAT2A         770.00  875.00
- C2080               C_SC0402_100NF        1915.00 3576.00
- C2081               C_SC0402_100NF        1955.00 3506.60
- D5                  HSMS_C170             2645.00  815.00
- D6                  HSMS_C170             2645.00  925.00
- D8                  BAT60BE6327           1791.00 3530.00
- D2039               BAT60BE6327           1791.00 3455.00
- J3                  2350004_0W3_R          427.21  235.79
- J5                  67491_1032            2350.00  380.00
- J7                  67491_1032            2850.00  380.00
- J2023               HDMI                  1625.00 3975.00
- R23                 RC0603JR_0710K         770.00  775.00
- R24                 RC0603JR_0710K         770.00  725.00
- R37                 RC0402JR_071KL        2780.00  815.00
- R38                 RC0402JR_071KL        2780.00  925.00
- R51                 R_SR0603_4.7K         3610.00  725.00
- R52                 R_SR0603_4.7K         3209.00  960.00
- R53                 R_SR0603_4.7K         3361.00 1025.00
- R54                 R_SR0603_4.7K         2980.00 1075.00
- R99                 RC_03K104JT            460.00  855.00
- R100                RC_03K104JT            325.00  740.00
- R117                R_SR0603_0            3365.00  825.00
- R2063               RC0402JR_0747K        1915.00 3506.60
- R2115               RC_02W103JT           1840.00 3597.40
- R2116               RC_02W103JT           1955.00 3576.00
- R2309               RC0603JR_070RL        1740.00 3570.00
- R2364               RK73B1ETTP273J        1753.00 3522.60
- U3                  MIC2505                545.00  800.00
- U19                 M25P128_VMF6P         3295.00  900.00
- U2008               CLAMP0524P            1495.00 3560.00
- U2009               CLAMP0524P            1620.00 3560.00
+ U7                  HI3535                                HI3535
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
-|                                                                    Page  10  |
+|                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS DELETED from board drawing                                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U2013               CLAMP0504DT           1885.00 3560.00
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  11  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS ADDED to board drawing                                            |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- BT1                 CON2_BAT_CR1220_BAT_3V 
- C1980               CAP NP_C0402_1UF      
- C2036               CAPACITOR_C0402_8PF   
- C2037               CAPACITOR_C0402_8PF   
- C2038               CAPACITOR_0_C0603_4.7UF 
- C2039               CAPACITOR_C0402_0.1UF 
- C2040               CAPACITOR_C0402_0.1UF 
- C2041               CAPACITOR_C0402_0.1UF 
- C2044               CAP NP_C0402_1UF      
- C2053               CAP NP_C0402_8PF      
- C2054               CAP NP_C0402_8PF      
- C2187               CAP NP_2_C0402_0.1UF  
- C2896               C_SC0402_100NF        
- C2897               CAPACITOR_0_C0402_1UF 
- C2898               CAPACITOR_C0402_0.1UF 
- C2899               CAPACITOR_0_C0603_4.7UF 
- D2                  DIODE_SOD123_1N5819   
- D4                  DIODE_SOD123_NC/1N5819 
- D49                 DIODE_0_SOD523_1N4148 
- ED15                TVS_E0402N_NC/ESD9B5VL 
- ED16                TVS_E0402N_NC/ESD9B5VL 
- ED17                TVS_E0402N_NC/ESD9B5VL 
- ED18                TVS_E0402N_NC/ESD9B5VL 
- FB3                 INDUCTOR_L0603_BLM18PG181SN1 
- J1852               HDMI_A_HDMI_A_10029449-111RLF_1 
- Q6                  MOSFET N_SOT23_WNM2021/2SK3018_ 
- Q7                  MOSFET N_SOT23_WNM2021/2SK3018_ 
- Q8                  MOSFET N_SOT23_NC/WNM2021/2SK30 
- R2290               RESISTOR_4_R0402_10K  
- R2377               RESISTOR_R0402_10K    
- R2378               RESISTOR_R0402_100K   
- R2379               RESISTOR_R0402_10K    
- R2380               RESISTOR_1_R0402_10K  
- R2917               RESISTOR_R0402_1.62K%1 
- R2918               RESISTOR_R0402_1.62K%1 
- R2919               RESISTOR_R0402_1.62K%1 
- R2920               RESISTOR_R0402_1.62K%1 
- R2921               RC0603JR_070RL        
- R2922               RESISTOR_R0402_NC/10K 
- R2923               RESISTOR_R0402_NC/10K 
- R2924               RC0402JR_0747K        
- R2925               RESISTOR_R0402_680R   
- U81                 LM4990_0_SOIC-8_MCP7940M-I/SN 
- U90                 DS8008_1_SLP2510P8_NC/RCLAMP052 
- U91                 DS8008_2_SLP2510P8_NC/RCLAMP052 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  12  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENTS ADDED to board drawing                                            |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U92                 GLI8024-48_3_SSOP28_GL850G 
- X3                  CRYSTAL DIP DT38 R_2.A_5032-12M 
- Y6                  CRYSTAL DIP DT38 R_2.A_CM315D_3 
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  13  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| COMPONENT PROPERTIES added to board drawing                                  |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   ref  des   |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- C2044                          ROOM           USB+5V
- D2                             ROOM           CHG
- D4                             ROOM           CHG
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  14  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
+|                                                    Wed Nov 15 09:07:28 2017  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to board drawing                                       |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   slot_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- BT1.2                          PRIM_FILE      .\pstchip.dat
- C1980.2                        PRIM_FILE      .\pstchip.dat
- C2036.2                        PRIM_FILE      .\pstchip.dat
- C2037.2                        PRIM_FILE      .\pstchip.dat
- C2038.2                        PRIM_FILE      .\pstchip.dat
- C2039.2                        PRIM_FILE      .\pstchip.dat
- C2040.2                        PRIM_FILE      .\pstchip.dat
- C2041.2                        PRIM_FILE      .\pstchip.dat
- C2044.2                        PRIM_FILE      .\pstchip.dat
- C2044.2                        ROOM           USB+5V
- C2053.2                        PRIM_FILE      .\pstchip.dat
- C2054.2                        PRIM_FILE      .\pstchip.dat
- C2187.2                        PRIM_FILE      .\pstchip.dat
- C2896.2                        PRIM_FILE      .\pstchip.dat
- C2897.2                        PRIM_FILE      .\pstchip.dat
- C2898.2                        PRIM_FILE      .\pstchip.dat
- C2899.2                        PRIM_FILE      .\pstchip.dat
- D2.2                           PRIM_FILE      .\pstchip.dat
- D2.2                           ROOM           CHG
- D4.2                           PRIM_FILE      .\pstchip.dat
- D4.2                           ROOM           CHG
- D49.2                          PRIM_FILE      .\pstchip.dat
- ED15.2                         PRIM_FILE      .\pstchip.dat
- ED16.2                         PRIM_FILE      .\pstchip.dat
- ED17.2                         PRIM_FILE      .\pstchip.dat
- ED18.2                         PRIM_FILE      .\pstchip.dat
- FB3.2                          PRIM_FILE      .\pstchip.dat
- J1852.9                        PRIM_FILE      .\pstchip.dat
- Q6.2                           PRIM_FILE      .\pstchip.dat
- Q7.2                           PRIM_FILE      .\pstchip.dat
- Q8.2                           PRIM_FILE      .\pstchip.dat
- R2290.2                        PRIM_FILE      .\pstchip.dat
- R2377.2                        PRIM_FILE      .\pstchip.dat
- R2378.2                        PRIM_FILE      .\pstchip.dat
- R2379.2                        PRIM_FILE      .\pstchip.dat
- R2380.2                        PRIM_FILE      .\pstchip.dat
- R2917.2                        PRIM_FILE      .\pstchip.dat
- R2918.2                        PRIM_FILE      .\pstchip.dat
- R2919.2                        PRIM_FILE      .\pstchip.dat
- R2920.2                        PRIM_FILE      .\pstchip.dat
- R2921.2                        PRIM_FILE      .\pstchip.dat
- R2922.2                        PRIM_FILE      .\pstchip.dat
- R2923.2                        PRIM_FILE      .\pstchip.dat
- R2924.2                        PRIM_FILE      .\pstchip.dat
- R2925.2                        PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  15  |
+ U7.A10                         PRIM_FILE      .\pstchip.dat
+ U7.AA5                         PRIM_FILE      .\pstchip.dat
+ U7.AD25                        PRIM_FILE      .\pstchip.dat
+ U7.C3                          PRIM_FILE      .\pstchip.dat
+ U7.C17                         PRIM_FILE      .\pstchip.dat
+ U7.D23                         PRIM_FILE      .\pstchip.dat
+ U7.T26                         PRIM_FILE      .\pstchip.dat
+ U7.U14                         PRIM_FILE      .\pstchip.dat
 |------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to board drawing                                       |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- U81.4                          PRIM_FILE      .\pstchip.dat
- U90.6                          PRIM_FILE      .\pstchip.dat
- U91.6                          PRIM_FILE      .\pstchip.dat
- U92.7                          PRIM_FILE      .\pstchip.dat
- X3.2                           PRIM_FILE      .\pstchip.dat
- Y6.2                           PRIM_FILE      .\pstchip.dat
-|------------------------------------------------------------------------------|
-|                                 ECO   REPORT                                 |
-|                                                                    Page  16  |
-|------------------------------------------------------------------------------|
-|  F:.../Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd     |
-|                                                    Mon Nov 13 10:20:23 2017  |
-|------------------------------------------------------------------------------|
-| SHAPE MOVED TO DUMMY NET                                                    |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|     net  name                  |   layer      |    first point on shape      |
-|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- 5V0_USB0                         TOP            (395.00 845.00)
-|------------------------------------------------------------------------------|
-|   total ECO changes reported  340                                            |
+|   total ECO changes reported  12                                             |
 |------------------------------------------------------------------------------|

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : Hi3535DMEB_VER_A_PCB.brd                      )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Mon Nov 13 10:20:23 2017                      )
+(    Date/Time        : Wed Nov 15 09:07:28 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -21,16 +21,16 @@ BOARD_DIRECTORY '';
 OLD_BOARD_NAME 'F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd';
 NEW_BOARD_NAME 'F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/Hi3535DMEB_VER_A_PCB.brd';
 
-CmdLine: netrev -$ -i F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout -y 1 -z F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/#Taaaaad02268.tmp
+CmdLine: netrev -$ -i F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout -y 1 -z F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/#Taaaabq07644.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstchip.dat 
-   Finished reading F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstchip.dat (00:00:00.04)
+   Finished reading F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstchip.dat (00:00:00.05)
 Starting to read F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstxprt.dat 
-   Finished reading F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstxprt.dat (00:00:00.01)
+   Finished reading F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstxprt.dat (00:00:00.04)
 Starting to read F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstxnet.dat 
-   Finished reading F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstxnet.dat (00:00:00.01)
+   Finished reading F:/Lab209B1/mbedComputer/Hi3535/Development/Dev board/hi3535/nvr-khanh-new/2. Layout/pstxnet.dat (00:00:00.03)
 
 ------ Oversights/Warnings/Errors ------
 
@@ -52,12 +52,6 @@ WARNING(SPMHNI-194): Symbol 'SR0402-BGA' for device 'RC0402FR_071KL' not found i
 WARNING(SPMHNI-194): Symbol 'SR0402-BGA' for device 'R_SR0402_240_(T:SR0402;B:SR0402' not found in PSMPATH or must be "dbdoctor"ed.
 
 #5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
-
-ERROR(SPMHNI-196): Symbol 'PBGA563-32-2828' for device 'HI3535' has extra pin '1'.
-
-ERROR(SPMHNI-196): Symbol 'PBGA563-32-2828' for device 'HI3535' has extra pin '2'.
-
-#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
 
 ERROR(SPMHNI-196): Symbol 'ZM5304' for device 'ZM5304_0_ZM5304_ZM5304' has extra pin '50'.
 
@@ -91,7 +85,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Nov 13 10:20:23 2017
+netrev run on Nov 15 9:07:28 2017
    DESIGN NAME : 'HI3535DMEB_VER_A_SCH'
    PACKAGING ON Sep 10 2012 04:46:09
 
@@ -114,8 +108,8 @@ netrev run on Nov 13 10:20:23 2017
 
  No error detected
  No oversight detected
-  6 warnings detected
+  5 warnings detected
 
-cpu time      0:02:50
-elapsed time  0:00:01
+cpu time      0:01:45
+elapsed time  0:00:00
 

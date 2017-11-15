@@ -2,9 +2,9 @@
 (                                                                     )
 (    QUICKPLACE LOG                                                   )
 (                                                                     )
-(    Drawing          : NVR.brd                                       )
+(    Drawing          : Hi3535DMEB_VER_A_PCB.brd                      )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Mon Nov 13 09:34:30 2017                      )
+(    Date/Time        : Tue Nov 14 07:08:17 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,103 +13,23 @@ State: Placing on layer TOP
 
 ERROR:   Cannot place symbol:  U7 / HI3535 / PBGA563-32-2828
          due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-ERROR:   Could not find symbol:  U9 / CONNECTOR_100PIN / FINISHED_HOLE-100
-ERROR:   Could not find symbol:  U6 / CONNECTOR_100PIN / FINISHED_HOLE-100
-ERROR:   Could not find symbol:  MPCIE_A_1 / 6140045100G / PCIEXP_MINI52PN_HALF
 ERROR:   Cannot place symbol:  U89 / ZM5304_0_ZM5304_ZM5304 / ZM5304
          due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
-ERROR:   Could not find symbol:  J2023 / HDMI / WBC0109-20RA
-ERROR:   Could not find symbol:  J8 / 17HE_R13150_73HC2 / DB15-3RF-A
-         Placed symbol:  U83 / MAX3232_1_SOIC16_MAX3232 / SOIC16 at (-4309.65 141.74)
-ERROR:   Could not find symbol:  J2 / A4E0911_A_30_T_B / RUSB9-180-0726A
-         Placed symbol:  SIM1 / SIM_RIDER_2_MICRO_SIM_CR-201-6P / MICRO_SIM at (-4444.56 -341.85)
-ERROR:   Could not find symbol:  J5 / 67491_1032 / SATA7-M
-ERROR:   Could not find symbol:  J6 / 67491_1032 / SATA7-M
-ERROR:   Could not find symbol:  J7 / 67491_1032 / SATA7-M
-ERROR:   Could not find symbol:  J3 / 2350004_0W3_R / USB4-1507
-ERROR:   Could not find symbol:  J4 / 2350004_0W3_R / USB4-1507
-         Placed symbol:  U28 / WM-294_0_WIFI_BT_R_RL-UM12BS-81 / WIFI_BT_R at (-4376.50 -1028.97)
-         Placed symbol:  U26 / DS8008_4_SOT23-5_PT5108E23E-33/ / SOT23-5 at (-4206.42 -1408.43)
-         Placed symbol:  J1851 / HEADER 4_HEADER-4_HEADER 4 2.54 / HEADER-4 at (-4498.15 -1540.61)
-         Placed symbol:  T2 / TRNSFMR 67115100_0_CHOKE_COIL_D / CHOKE_COIL at (-4213.11 -1642.07)
-ERROR:   Could not find symbol:  X1 / C001R12520 / XTAL2-100
-         Placed symbol:  J0701 / HEADER 3_CONN3_BOX_DEBUG / CONN3_BOX at (-4398.15 -1849.28)
-         Placed symbol:  J0702 / HEADER 3_PHEONIX_CONN_3_6913223 / PHEONIX_CONN_3 at (-4548.15 -2014.37)
-ERROR:   Could not find symbol:  J11 / 201_040_003_05_3 / SIP-3P
-ERROR:   Could not find symbol:  Q1 / DS18S20C01 / TO-TR
-         Placed symbol:  J21 / CON3_ANTENNA_WIFI_CON3 / ANTENNA_WIFI at (-4230.83 -2406.43)
-         Placed symbol:  C224 / CAP NP_C0402_DISCRETE_0.1UF / C0402 at (-5257.59 2067.00)
-         Placed symbol:  C2184 / CAPC-SM0402_4_SMC0402_DISCRET_1 / SMC0402 at (-5258.65 2034.96)
-         Placed symbol:  ESD812 / ESD,ES0402V014BT_2_ESD0402_ES04 / ESD0402 at (-5260.38 1988.46)
-         Placed symbol:  ESD811 / ESD,ES0402V014BT_2_ESD0402_ES04 / ESD0402 at (-5260.38 1947.13)
-         Placed symbol:  FB10 / FB0603_0_SMR0603_DISCRETE_31/3A / SMR0603 at (-5272.65 1910.80)
-         Placed symbol:  FB1606 / FB0603_0_SMR0603_DISCRETE_31/3A / SMR0603 at (-5272.65 1863.80)
-         Placed symbol:  FB5 / INDUCTOR_L0603_BLM18PG181SN1 / L0603 at (-5278.65 1811.30)
-         Placed symbol:  C2180 / CAPC-SM0402_10_SMC0402_DISCRETE / SMC0402 at (-5258.65 1769.30)
-         Placed symbol:  C2186 / CAPC-SM0402_4_SMC0402_DISCRETE_ / SMC0402 at (-5258.65 1733.30)
-         Placed symbol:  FB1605 / FB0603_0_SMR0603_DISCRETE_31/3A / SMR0603 at (-5272.65 1691.80)
-         Placed symbol:  C2182 / CAPC-SM0805_0_SMC0603_DISCRETE_ / SMC0603 at (-5272.65 1644.80)
-         Placed symbol:  C2179 / CAPC-SM0402_4_SMC0402_DISCRETE_ / SMC0402 at (-5258.65 1603.30)
-         Placed symbol:  LED1 / LED_LTST-C150GKT_0_SM0603LED_AC / SM0603LED_AC at (-5286.65 1553.30)
-         Placed symbol:  C2095 / CP / C0402 at (-5257.59 1492.30)
-         Placed symbol:  R2291 / RES-SM0402_2_R0402_DISCRETE_10K / R0402 at (-5257.59 1449.26)
-         Placed symbol:  R2321 / RES-SM0402_2_R0402_DISCRETE_0R_ / R0402 at (-5257.59 1406.22)
-         Placed symbol:  C2094 / CP / C0402 at (-5257.59 1363.18)
-         Placed symbol:  R2376 / RES-SM0402_2_R0402_DISCRETE_0R / R0402 at (-5257.59 1320.14)
-         Placed symbol:  C2177 / CAPC-SM0402_10_SMC0402_DISCRETE / SMC0402 at (-5258.65 1288.10)
-         Placed symbol:  C2175 / C0603_C0402_MATCHING CIRCUIT, W / C0402 at (-5257.59 1241.10)
-         Placed symbol:  C2183 / CAPC-SM0402_4_SMC0402_DISCRETE_ / SMC0402 at (-5258.65 1209.06)
-         Placed symbol:  L14 / INDUCTOR_0_R0402_MATCHING CIRCU / R0402 at (-5257.59 1162.06)
-         Placed symbol:  C2178 / CAPC-SM0805_0_SMC0603_DISCRETE_ / SMC0603 at (-5272.65 1124.52)
-         Placed symbol:  C2174 / CAP NP_C0805_22UF / C0805 at (-5293.65 1072.02)
-         Placed symbol:  C2185 / CAPC-SM0402_10_SMC0402_DISCRETE / SMC0402 at (-5258.65 1025.02)
-         Placed symbol:  C2181 / CAPC-SM0402_10_SMC0402_DISCRETE / SMC0402 at (-5258.65 989.02)
-         Placed symbol:  R2385 / RESISTOR_R0402_0R/NC / R0402 at (-5257.59 942.02)
-         Placed symbol:  C2052 / CAP NP_C0402_0.1UF / C0402 at (-5257.59 898.98)
-         Placed symbol:  C2051 / CAP NP_C0603_4.7UF / C0603 at (-5246.36 828.38)
-         Placed symbol:  C1 / 06031C102KAT2A / SC0603 at (-5275.15 754.04)
-         Placed symbol:  C11 / GRM21BR70J106KE76L / SC0805 at (-5283.15 698.04)
-         Placed symbol:  C12 / GRM21BR70J106KE76L / SC0805 at (-5283.15 634.04)
-         Placed symbol:  C13 / GRM21BR70J106KE76L / SC0805 at (-5283.15 570.04)
-         Placed symbol:  C14 / GRM21BR70J106KE76L / SC0805 at (-5283.15 506.04)
-         Placed symbol:  C139 / C1608X5R0J106MT0A0E / SC0603 at (-5275.15 445.04)
-         Placed symbol:  C193 / C1608X5R0J106MT0A0E / SC0603 at (-5275.15 392.04)
-         Placed symbol:  C198 / C1608X5R0J106MT0A0E / SC0603 at (-5275.15 339.04)
-         Placed symbol:  C220 / C1608X5R0J106MT0A0E / SC0603 at (-5275.15 286.04)
-         Placed symbol:  C221 / C1608X5R0J106MT0A0E / SC0603 at (-5275.15 233.04)
-         Placed symbol:  C222 / C1608X5R0J106MT0A0E / SC0603 at (-5275.15 180.04)
-         Placed symbol:  C223 / C1608X5R0J106MT0A0E / SC0603 at (-5275.15 127.04)
-         Placed symbol:  C434 / C1608X5R0J106MT0A0E / SC0603 at (-5275.15 74.04)
-         Placed symbol:  C140 / GRM188R61A225KE34D / SC0603 at (-5275.15 21.04)
-         Placed symbol:  C141 / GRM188R61A225KE34D / SC0603 at (-5275.15 -31.96)
-         Placed symbol:  C142 / GRM188R61A225KE34D / SC0603 at (-5275.15 -84.96)
-         Placed symbol:  C2050 / CAP NP_C0402_1UF / C0402 at (-5257.59 -137.96)
-         Placed symbol:  C2049 / CAP NP_4_C0402_0.1UF / C0402 at (-5257.59 -181.00)
-         Placed symbol:  C2046 / CAP NP_C0402_DISCRETE_0.1UF_H_1 / C0402 at (-5257.59 -224.04)
-         Placed symbol:  R2388 / RES-SM0402_2_SMR0402_DISCRETE_1 / SMR0402 at (-5258.65 -256.08)
-         Placed symbol:  C2035 / CAP NP_C0402_DISCRETE_0.1UF_H_1 / C0402 at (-5257.59 -303.08)
-         Placed symbol:  C2173 / CP / C0402 at (-5257.59 -346.12)
-         Placed symbol:  C2097 / CP / C0402 at (-5257.59 -389.16)
-         Placed symbol:  R2386 / RES-SM0402_2_SMR0402_DISCRETE_0 / SMR0402 at (-5258.65 -421.20)
-         Placed symbol:  C2176 / C0603_C0402_MATCHING CIRCUIT, W / C0402 at (-5257.59 -468.20)
-         Placed symbol:  C2096 / CP / C0402 at (-5257.59 -511.24)
-         Placed symbol:  R2387 / RES-SM0402_2_SMR0402_DISCRETE_1 / SMR0402 at (-5258.65 -543.28)
-         Placed symbol:  R2375 / RES-SM0402_2_R0402_DISCRETE_0R / R0402 at (-5257.59 -590.28)
-         Placed symbol:  R2389 / RES-SM0402_2_SMR0402_DISCRETE_2 / SMR0402 at (-5258.65 -622.32)
-         Placed symbol:  C1993 / CAP NP_C0402_DISCRETE_0.1UF_HTT / C0402 at (-5257.59 -669.32)
-ERROR:   Could not find symbol:  J9 / TSW_101_23_F_S / SIP-1P
-ERROR:   Could not find symbol:  J13 / TSW_101_23_F_S / SIP-1P
-ERROR:   Could not find symbol:  J10 / TSW_101_23_F_S / SIP-1P
-ERROR:   Could not find symbol:  J1 / TSW_101_23_F_S / SIP-1P
-         Placed symbol:  ID6 / PCB_MARKPOINT / ID-BOARD at (-5268.65 -727.36)
-         Placed symbol:  ID5 / PCB_MARKPOINT / ID-BOARD at (-5268.65 -815.36)
-         Placed symbol:  ID4 / PCB_MARKPOINT / ID-BOARD at (-5268.65 -903.36)
-         Placed symbol:  ID3 / PCB_MARKPOINT / ID-BOARD at (-5268.65 -991.36)
-         Placed symbol:  ID2 / PCB_MARKPOINT / ID-BOARD at (-5268.65 -1079.36)
-         Placed symbol:  ID1 / PCB_MARKPOINT / ID-BOARD at (-5268.65 -1167.36)
 
 
-Placed 74 of 94 applicable (94 total) symbols.
+Placed 0 of 2 applicable (2 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+ERROR:   Cannot place symbol:  U7 / HI3535 / PBGA563-32-2828
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+ERROR:   Cannot place symbol:  U89 / ZM5304_0_ZM5304_ZM5304 / ZM5304
+         due to ERROR(SPMHGE-82): Pin numbers do not match between symbol and component. Run dev_check on device file for more information.
+
+
+Placed 0 of 2 applicable (2 total) symbols.
 
 -----------------------------------------------------------------------
 
