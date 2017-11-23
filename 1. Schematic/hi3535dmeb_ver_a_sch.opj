@@ -59,67 +59,69 @@
       (Path "Design Resources")
       (Path "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn")
       (Path "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn" "HI3535DMEB")
-      (Path "Outputs"))
+      (Path "Outputs")
+      (Select "Design Resources" ".\hi3535dmeb_ver_a_sch.dsn" "HI3535DMEB"
+         "09. System & flash"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 0 505 -8 -31 0 200 0 285"))
+        (Placement "44 0 1 0 505 -8 -31 0 200 0 285"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1124 26 327")
-        (Scroll "-268 0")
-        (Zoom "26")
+        (Placement "44 2 3 -1 -1 -8 -31 52 1178 52 353")
+        (Scroll "631 590")
+        (Zoom "164")
         (Occurrence "/"))
       (Path
          "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "Wireless"))
+      (Page "Power 2"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1098 0 301")
-        (Scroll "0 164")
-        (Zoom "66")
+        (Placement "44 0 1 -1 -1 -8 -31 104 1230 104 405")
+        (Scroll "-232 0")
+        (Zoom "41")
         (Occurrence "/"))
       (Path
          "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "09. System & flash"))
+      (Page "Power 1"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1150 52 353")
-        (Scroll "-75 0")
-        (Zoom "50")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1152 26 323")
+        (Scroll "20 75")
+        (Zoom "104")
         (Occurrence "/"))
       (Path
          "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "05. Power & VSS"))
+      (Page "Power"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 1153 0 234")
-        (Scroll "-353 0")
-        (Zoom "25")
-        (Occurrence "/"))
-      (Path
-         "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
-      (Schematic "HI3535DMEB")
-      (Page "16. Connector"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1205 52 286")
-        (Scroll "0 440")
+        (Placement "44 0 1 -1 -1 -8 -31 26 1152 26 327")
+        (Scroll "0 420")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
       (Schematic "HI3535DMEB")
-      (Page "06. HI3535 DDR3")))
+      (Page "07. DDR3_A"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1126 0 301")
+        (Scroll "180 686")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "F:\LAB209B1\MBEDCOMPUTER\HI3535\DEVELOPMENT\DEV BOARD\HI3535\NVR-KHANH-NEW\1. SCHEMATIC\HI3535DMEB_VER_A_SCH.DSN")
+      (Schematic "HI3535DMEB")
+      (Page "09. System & flash")))
   (MPSSessionName "Khanh")
   (ISPCBBASICLICENSE "false"))
